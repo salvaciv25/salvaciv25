@@ -42,15 +42,6 @@ I am an **Mathematical Engineering Student** specializing in **Modelling for Sci
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salvaciv25&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvaciv25&layout=compact&theme=radial" width="45%" />
-</p>
-
----
-
 ## 📫 Connect with me
 * 💼 Interested in: Computational Mechanics, Structural Optimization, Deep Learning applied to CFD and Software Engineering for Physics.
 
