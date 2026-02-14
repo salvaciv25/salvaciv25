@@ -36,7 +36,6 @@ I am an **Mathematical Engineering Student** specializing in **Modelling for Sci
 | **Artificial Intelligence** | Deep Learning, Variational Autoencoders (VAE), Graph Neural network (GNN), CNN, ResNet |
 | **Data Science** | Python (PyTorch/TensorFlow), MAESTRO Dataset, Signal Processing |
 | **Thermal & Space** | Radian, SISTEMA, TVAC Testing, ESA/ECSS Standards |
-
 | **Languages** | MATLAB, C++, Python, LaTeX |
 | **Tools & Libraries** | Kratos Multiphysics, OpenFOAM, Abaqus, OpenMP, Git, ParaView |
 
