@@ -1,4 +1,3 @@
-```markdown
 # Ciao, I'm Salvatore Civiello! 👋
 
 I am an **Mathematical Engineering Student** specializing in **Modelling for Science and Engineering**. My work focuses on the intersection of structural mechanics, fluid dynamics (CFD), and High-Performance Computing (HPC), surrogate models and Deep Learning.
@@ -55,4 +54,3 @@ I am an **Mathematical Engineering Student** specializing in **Modelling for Sci
 ## 📫 Connect with me
 * 💼 Interested in: Computational Mechanics, Structural Optimization, Deep Learning applied to CFD and Software Engineering for Physics.
 
-```
